@@ -20,22 +20,25 @@ const Footer = () => {
         <div className='footer'>
             <div className="left">
                 <div className="links">
-                    <Link color={'inherit'}>
+                    <Link href='https://github.com/vi3003/typing-website' color={'inherit'}>
                         <GitHub fontSize='large'/>
                     </Link>
-                    <Link color={'inherit'}>
+                    <Link href='https://www.linkedin.com/in/vidhi-jain-b46b0a215/' color={'inherit'}>
                         <LinkedInIcon fontSize='large'/>
                     </Link>
-                    <Link color={'inherit'}>
+                    <Link href='https://twitter.com/Its_Vee_Jain' color={'inherit'}>
                         <TwitterIcon fontSize='large'/> 
                     </Link>
-                    <Link color={'inherit'}>
+                    <Link href='mailto:vidhijain3003@gmail.com' color={'inherit'}>
                         <EmailIcon fontSize='large'/>
                     </Link>
-                    <Link color={'inherit'}>
+                    <Link href='https://docs.google.com/document/d/1YA41xz_mGw27h35C5A26QgIAkDztIYiEsENCaJjnzMo/edit?usp=sharing' color={'inherit'}>
                         <DescriptionIcon fontSize='large'/>
                     </Link>
                 </div>
+            </div>
+            <div className="center">
+                <p>Copyright ©️ 2023 <b>Vidhi jain</b> </p>
             </div>
             <div className="themeButton">
                 <PaletteIcon sx={{fontSize: 40}}/>

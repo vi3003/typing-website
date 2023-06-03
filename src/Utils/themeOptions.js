@@ -1,5 +1,6 @@
 const DarkTheme = {
     label : 'dark',
+    title : 'black',
     background: '#242933',
     textColor: '#EC4C56',
     typeBoxText: '#596172',
@@ -9,6 +10,7 @@ const DarkTheme = {
 
 const RedTheme = {
     label :'red',
+    title : 'black',
     background : '#CE1226',
     textColor : '#FCD116',
     typeBoxText : '#6D0F19',
@@ -18,6 +20,7 @@ const RedTheme = {
 
 const BTS = {
     label :'behind the scenes',
+    title : 'black',
     background : '#1B1D36',
     textColor : '#FCA6D1',
     typeBoxText : '#91CBDF',
@@ -27,6 +30,7 @@ const BTS = {
 
 const Beach = {
     label :'beach',
+    title : 'black',
     background : '#FFEEAD',
     textColor : '#5B7869',
     typeBoxText : '#FF6F69',
@@ -36,6 +40,7 @@ const Beach = {
 
 const PurpleWorld = {
     label : 'purple world',
+    title : 'black',
     background : '#2E1A47',
     textColor : '#F8BED6',
     typeBoxText : '#C18FFF',
@@ -45,6 +50,7 @@ const PurpleWorld = {
 
 const Aether = {
     label : 'aether',
+    title : 'black',
     background : '#101820',
     textColor : '#EEDAEA',
     typeBoxText : '#CF6BDD',
@@ -53,6 +59,7 @@ const Aether = {
 }
 const Aurora = {
     label : 'aurora',
+    title : 'black',
     background : '#011926',
     textColor : '#FFFFFF',
     typeBoxText : '#245C69',
@@ -62,6 +69,7 @@ const Aurora = {
 
 const MauveLove= {
     label : 'mauve love',
+    title : 'black',
     background : '#B8A7AA',
     textColor : '#83616E',
     typeBoxText : '#48373D',
@@ -71,6 +79,7 @@ const MauveLove= {
 
 const BlueLagoon= {
     label : 'blue lagoon',
+    title : 'black',
     background : '#003950',
     textColor : '#FFCEFB',
     typeBoxText : '#82EAFF',
@@ -80,6 +89,7 @@ const BlueLagoon= {
 
 const Forest = {
     label : 'forest',
+    title : 'black',
     background : '#173F35',
     textColor : '#EAA09C',
     typeBoxText : '#3D8876',
@@ -89,6 +99,7 @@ const Forest = {
 
 const Ivory= {
     label : 'ivory',
+    title : 'black',
     background : '#E8D5C4',
     textColor : '#7D67A9',
     typeBoxText : '#3A98B9',
@@ -98,6 +109,7 @@ const Ivory= {
 
 const Cinnamon= {
     label : 'cinammon',
+    title : 'black',
     background : '#A0A0A0',
     textColor : '#3B2D3B',
     typeBoxText : '#573E40',
@@ -107,6 +119,7 @@ const Cinnamon= {
 
 const Pastel= {
     label : 'pastel',
+    title : '#6D5C6F',
     background : '#E0B2BD',
     textColor : '#FBF4B6',
     typeBoxText : '#b2e0d5',
@@ -116,6 +129,7 @@ const Pastel= {
 
 const Funky= {
     label : 'funk',
+    title : 'black',
     background : '#B3BAFF',
     textColor : '#282437',
     typeBoxText : '#6F6C91',
@@ -125,6 +139,7 @@ const Funky= {
 
 const Retro= {
     label : 'retro',
+    title : 'black',
     background : '#07737A',
     textColor : '#94DCCD',
     typeBoxText : '#F3E03B',
